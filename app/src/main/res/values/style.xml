@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="InfoTextStyle">
+        <item name="android:textSize">@dimen/info_text_size</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:includeFontPadding">true</item>
+        <item name="android:fontFamily">@font/arial</item>
+    </style>
+
+    <style name="InfoTextDscStyle">
+        <item name="android:textSize">@dimen/info_text_des_size</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:includeFontPadding">true</item>
+        <item name="android:fontFamily">@font/arial</item>
+    </style>
+
+   <!-- <style name="splashScreenTheme" >
+        <item name="android:windowBackground">@drawable/splash</item>
+    </style>-->
+</resources>

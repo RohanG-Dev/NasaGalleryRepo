@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="info_text_size">15sp</dimen>
+    <dimen name="info_text_des_size">10sp</dimen>
+
+
+    <!-- Details Screen Values -->
+    <dimen name="details_header_margin_top">10dp</dimen>
+    <dimen name="details_header_margin_left">5dp</dimen>
+    <dimen name="header_text_size">25sp</dimen>
+    <dimen name="details_content_margin_left">15dp</dimen>
+    <dimen name="details_content_margin_bottom">15dp</dimen>
+
+    <!-- Image Screen Values -->
+    <dimen name="image_viewpager_padding">2dp</dimen>
+
+    <!-- Image Items Values -->
+    <dimen name="image_view_padding">0dp</dimen>
+    <dimen name="text_view_layout_margin_bottom">10dp</dimen>
+    <dimen name="text_view_padding">2dip</dimen>
+
+</resources>
